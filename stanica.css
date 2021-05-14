@@ -1,0 +1,36 @@
+h1 {
+  color: Wheat;text-align: center;
+  
+}
+body {
+  background-color: MediumSeaGreen;
+}
+p {
+  color: MistyRose;
+text-align: center;
+}
+h2 {
+  color: Wheat;
+  text-align: center;
+}
+h3 {
+  color: Wheat; text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+img {
+  height: 200px;
+  width: 400px;
+  
+}
+#img2 {
+  height: 200px;
+  width: 300px;
+  
+}
+
